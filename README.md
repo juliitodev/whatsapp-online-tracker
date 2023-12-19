@@ -29,6 +29,7 @@ The code can be broken with new versions of Whatsapp Web
 - Insert the JavaScript code available inside the file inject.js
 - Wait for data added to data.csv as soon as the user is online
 - Analyse the data collected in data.csv
+- If you want to stop it you only have to stop the python server and reload the page
 
 ## 3. Usage [Windows]
 - Start the Server: python3 server.py
@@ -37,6 +38,7 @@ The code can be broken with new versions of Whatsapp Web
 - Insert the JavaScript code available inside the file inject.js
 - Wait for data added to data.csv as soon as the user is online
 - Analyse the data collected in data.csv
+- If you want to stop it you only have to stop the python server and reload the page
 
 This project is a remaster of rndinfosecguy/vulture.
 
